@@ -1,0 +1,169 @@
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Consulta.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.HashEstatico.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.IndicesM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - Copy\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.1\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.2\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.3\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Integridad Completado Consultas NoCompletado\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.4 - Error de Datos corregido\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Consultas.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Consultas.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.5 - Primera consulta\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe.config
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\bin\Debug\EstructuraDeArchivos-Proyecto.pdb
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Consultas.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.Inicio.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroM.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroE.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.EntidadA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.AtributoA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\Proyecto_Estructura_de_Archivos.RegistroA.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos_Proyecto.Properties.Resources.resources
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.exe
+C:\Users\ASUS\source\repos\EstructuraDeArchivos-Proyecto - V2.6 - Consultas Select y Where Completados\EstructuraDeArchivos-Proyecto\obj\Debug\EstructuraDeArchivos-Proyecto.pdb
